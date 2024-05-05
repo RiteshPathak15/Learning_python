@@ -19,3 +19,14 @@ print(square.__doc__) #used to print docString
 # The primary focus of PEP 8 is to improve the readability and consistency of Python code.
 # PEP stands for Python Enhancement Proposal, and there are several of them.
 # A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.
+
+def add(a,b):
+    print(a+b)
+def add1(x,y,z):
+    print(x+y+z)
+def add2(q,p,r,s):
+    print(q+p+r+s)
+
+add(2,1)
+add1(3,4,1)
+add2(5,3,8,1)

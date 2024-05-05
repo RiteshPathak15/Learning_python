@@ -17,7 +17,7 @@ print(details)
 #       0         1         2         3        4
 # colors = ["Red", "Green", "Blue", "Yellow", "Green"]
 #      -5        -4        -3        -2        -1
-# <-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-
+# ===========================
 # Accessing list items
 # We can access list items by using its index with the square bracket syntax []. For example colors[0] will give "Red", colors[1] will give "Green" and so on...
 

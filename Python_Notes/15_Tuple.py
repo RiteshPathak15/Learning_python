@@ -23,7 +23,7 @@ print(details)
 #       0         1         2         3        4
 # country = ("Spain", "Italy", "India",)
 #      -5        -4        -3        -2        -1
-# <-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-
+# ===========================
 
 # Accessing tuple items:
 # Example:
