@@ -1,5 +1,5 @@
 #Summary:
-#       OOP in Python allows developers to model real-world concepts and entities using classes and objects,    encapsulate data, reuse code through inheritance, and write more flexible code through polymorphism.
+#OOP in Python allows developers to model real-world concepts and entities using classes and objects,encapsulate data, reuse code through inheritance, and write more flexible code through polymorphism.
 
 
 #Example of Object oriented Program:
